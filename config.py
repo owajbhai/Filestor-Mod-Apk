@@ -38,6 +38,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://image.zaw-myo.workers.dev/image/aa898d7a-6403-49ba-9e9f-742511dd20df")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image/aa898d7a-6403-49ba-9e9f-742511dd20df")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://image.zaw-myo.workers.dev/image/aa898d7a-6403-49ba-9e9f-742511dd20df")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
