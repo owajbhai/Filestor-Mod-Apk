@@ -18,12 +18,12 @@ from logging.handlers import RotatingFileHandler
 #rohit_1888 on Tg
 #--------------------------------------------
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7355277731:AAGo6sNAoFrQ_2YgLPc2TD3bo_0150nZVTs")
 APP_ID = int(os.environ.get("APP_ID", "23621595")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "de904be2b4cd4efe2ea728ded17ca77d") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002547208138")) #Your db channel Id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002298754485")) #Your db channel Id
 OWNER = os.environ.get("OWNER", "BotMaster55") # Owner username without @
 OWNER_ID = int(os.environ.get("OWNER_ID", "1249672673")) # Owner id
 #--------------------------------------------
@@ -48,7 +48,7 @@ TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/28")
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @AdultZon3462_bot\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/premiumuseronly_Bot>MASTER</a></blockquote></b>"
+HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @premiumuseronly_Bot\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/premiumuseronly_Bot>MASTER</a></blockquote></b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/premiumuseronly_Bot>Yt</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/premiumuseronly_Bot>ᴏᴛᴀᴋᴜғʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/premiumuseronly_Bot>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/premiumuseronly_Bot>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/premiumuseronly_Bot>ᴘᴏʀɴʜᴡᴀs</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/premiumuseronly_Bot>WONER</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
@@ -78,7 +78,7 @@ CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockqu
 <b>›› /count :</b> ᴄᴏᴜɴᴛ verifications
 """
 #--------------------------------------------
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>• join https://t.me/+Jw3VkDCNVZlkMWQ1 </b>") #set your Custom Caption here, Keep None for Disable Custom Caption
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>• Back Up chennal join </b>") #set your Custom Caption here, Keep None for Disable Custom Caption
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" else False #set True if you want to prevent users from forwarding files from bot
 #--------------------------------------------
 #Set true if you want Disable your Channel Posts Share button
@@ -96,11 +96,15 @@ SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/premiumuseronly_Bot")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "45 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
+PRICE1 = os.environ.get("PRICE1", "15 ⚡RS⚡")
 #7 Days
-PRICE2 = os.environ.get("PRICE2", "50 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
+PRICE2 = os.environ.get("PRICE2", "30 💥RS💥")
 #0 Month
-PRICE3 = os.environ.get("PRICE3", "80 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
+PRICE3 = os.environ.get("PRICE3", "50 🍁RS🍁")
+#0 Month
+PRICE4 = os.environ.get("PRICE4", "80 🌞RS🌞")
+#0 Month
+PRICE5 = os.environ.get("PRICE5", "130 👀RS👀")
 
 #===================(END)========================#
 
