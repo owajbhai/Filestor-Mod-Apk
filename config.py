@@ -96,15 +96,11 @@ SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/premiumuseronly_Bot")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "15 ⚡RS⚡")
+PRICE1 = os.environ.get("PRICE1", "45 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
 #7 Days
-PRICE2 = os.environ.get("PRICE2", "30 💥RS💥")
+PRICE2 = os.environ.get("PRICE2", "50 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
 #0 Month
-PRICE3 = os.environ.get("PRICE3", "50 🍁RS🍁")
-#0 Month
-PRICE4 = os.environ.get("PRICE4", "80 🌞RS🌞")
-#0 Month
-PRICE5 = os.environ.get("PRICE5", "130 👀RS👀")
+PRICE3 = os.environ.get("PRICE3", "80 ⚜️𝑹𝒖𝒑𝒂𝒚𝒆⚜️")
 
 #===================(END)========================#
 
