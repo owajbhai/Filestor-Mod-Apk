@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://image.zaw-myo.workers.dev/image
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image/aa898d7a-6403-49ba-9e9f-742511dd20df")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "Adrinolinks.in")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "31b524ab1ff1a23bd97188b8135a3bca414b1535")
-VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 20)) # sec
+VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # sec
 TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/28")
 
 #--------------------------------------------
