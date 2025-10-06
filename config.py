@@ -7,7 +7,7 @@ from logging.handlers import RotatingFileHandler
 #rohit_1888 on Tg
 #--------------------------------------------
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7355277731:AAGo6sNAoFrQ_2YgLPc2TD3bo_0150nZVTs")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 APP_ID = int(os.environ.get("APP_ID", "23621595")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "de904be2b4cd4efe2ea728ded17ca77d")
 #--------------------------------------------
@@ -88,13 +88,13 @@ SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/premiumuseronly_Bot")
 #7 Days
 PRICE1 = os.environ.get("PRICE1", "15 ⚡RS⚡")
 #7 Days
-PRICE2 = os.environ.get("PRICE2", "30 💥RS💥")
+PRICE2 = os.environ.get("PRICE2", "40 💥RS💥")
 #0 Month
-PRICE3 = os.environ.get("PRICE3", "50 🍁RS🍁")
+PRICE3 = os.environ.get("PRICE3", "70 🍁RS🍁")
 #0 Month
-PRICE4 = os.environ.get("PRICE4", "80 🌞RS🌞")
+PRICE4 = os.environ.get("PRICE4", "100 🌞RS🌞")
 #0 Month
-PRICE5 = os.environ.get("PRICE5", "130 👀RS👀")
+PRICE5 = os.environ.get("PRICE5", "400 👀RS👀")
 
 #===================(END)========================#
 
