@@ -32,7 +32,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "arolinks.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "d6a2a1bae0a25c4aa2d4d3c3ad364d6306995a37")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
-TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/28")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/100")
 
 #--------------------------------------------
 
