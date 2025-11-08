@@ -29,10 +29,10 @@ START_PIC = os.environ.get("START_PIC", "https://image.zaw-myo.workers.dev/image
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image/8d7703e1-5f8a-4cfb-88b9-bf3d8ebb8caa")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
-VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
-TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/100")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "arolinks.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "d6a2a1bae0a25c4aa2d4d3c3ad364d6306995a37")
+VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 43200)) # Add time in seconds
+TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/115")
 
 #--------------------------------------------
 
