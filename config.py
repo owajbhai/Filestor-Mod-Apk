@@ -31,7 +31,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshortify.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "74e17137f92e31cc0406fab6fcf3131bc61f8ecc")
-VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 1200)) # Add time in seconds
+VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 2400)) # Add time in seconds
 TUT_VID = os.environ.get("TUT_VID","")
 
 #--------------------------------------------
