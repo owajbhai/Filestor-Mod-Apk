@@ -25,14 +25,14 @@ FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/logchennel0")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://image.zaw-myo.workers.dev/image/8d7703e1-5f8a-4cfb-88b9-bf3d8ebb8caa")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image/8d7703e1-5f8a-4cfb-88b9-bf3d8ebb8caa")
+START_PIC = os.environ.get("START_PIC", "https://image.zaw-myo.workers.dev/image/6127145f-d6b5-45fd-8e42-e8f7508485aa")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://image.zaw-myo.workers.dev/image/6127145f-d6b5-45fd-8e42-e8f7508485aa")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 43200)) # Add time in seconds
-TUT_VID = os.environ.get("TUT_VID","https://t.me/Premium_Jaction/115")
+TUT_VID = os.environ.get("TUT_VID","")
 
 #--------------------------------------------
 
