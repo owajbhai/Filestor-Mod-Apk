@@ -18,7 +18,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1249672673")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 #--------------------------------------------
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Tigerbhai:Tigerbhai@cluster07374747.v0ojz7d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster07374747")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Bot003:Bot003@cluster076666.r0p2exr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster076666")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluooo")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "0"))  # 0 means no expiry
